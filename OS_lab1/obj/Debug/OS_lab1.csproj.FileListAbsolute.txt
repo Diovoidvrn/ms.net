@@ -1,0 +1,10 @@
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\bin\Debug\OS_lab1.exe.config
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\bin\Debug\OS_lab1.exe
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\bin\Debug\OS_lab1.pdb
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.AssemblyReference.cache
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\obj\Debug\OS_lab1.Form1.resources
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\obj\Debug\OS_lab1.Properties.Resources.resources
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.GenerateResource.cache
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.CoreCompileInputs.cache
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\obj\Debug\OS_lab1.exe
+E:\Универ\3 курс\ОС\OS_lab1\OS_lab1\obj\Debug\OS_lab1.pdb
